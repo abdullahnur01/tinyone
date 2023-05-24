@@ -11,6 +11,11 @@ body{
     padding-top: 100px;
     padding-bottom: 120px;
 }
+.intro h2{ 
+    margin-bottom: 15px;
+    font-size: 32px;
+    font-weight: 700;
+}
 .yellow{
     color: #fcdb00;     
 }
@@ -80,9 +85,6 @@ header{
 
 /*feature start*/
 .f_intro h2{ 
-    margin-bottom: 15px;
-    font-size: 32px;
-    font-weight: 700;
     color: #010101;
 }
 .f_intro p{
@@ -115,11 +117,6 @@ header{
 /*contact start*/
 .contact{
     background-color: #010101;
-}
-.c_intro h2{ 
-    margin-bottom: 15px;
-    font-size: 32px;
-    font-weight: 700;
 }
 .c_intro p{
      font-size: 20px;
