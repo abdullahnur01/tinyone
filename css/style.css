@@ -16,9 +16,6 @@ body{
     font-size: 32px;
     font-weight: 700;
 }
-.yellow{
-    color: #fcdb00;     
-}
 .ash{
     color:#898989 ;
 }
@@ -117,6 +114,9 @@ header{
 /*contact start*/
 .contact{
     background-color: #010101;
+}
+.c_intro h2{ 
+   color: #fcdb00;  
 }
 .c_intro p{
      font-size: 20px;
